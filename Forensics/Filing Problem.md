@@ -4,7 +4,7 @@
 
 We received this memo from the supervisor, but it has some serious issues. Can you figure it out?  
 **Author:** nord  
-**Package Link:** [Download the package](Filing Problem - memo)
+**Package Link:** [Download the package]([../Filing Problem - memo](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Forensics/(Filing%20Problem)%20-%20memo))
 
 To solve this challenge, follow these steps:
 
