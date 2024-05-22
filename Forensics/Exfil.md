@@ -5,7 +5,7 @@
 We've been alerted that something's been stolen from our network, but none of our sensors found anything out of the ordinary. Can you find if a flag was stolen from our network in the attached packet capture?
 
 **Author:** m4lwhere  
-**Package Link:** [Download the package]
+**Package Link:** [Download the package](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Forensics/packages/exfiltrated.pcap)
 
 To solve this challenge, follow these steps:
 
