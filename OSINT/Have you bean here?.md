@@ -6,7 +6,7 @@ Our target has been out and about, enjoying their (unwelcome) stay in the US. Th
 **Flag Format:** `C1{MAC}` or `C1{Address}`  
 **Example:** 123 Street -> `C1{123}`
 
-![Osint-1.webp](Osint-1.webp)
+![OSINT1.png](OSINT1.png)
 
 You are given this image to figure out the location or MAC address. Here's how to solve it:
 
