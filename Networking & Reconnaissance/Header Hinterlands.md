@@ -6,7 +6,7 @@ Our intelligence team received an anonymous tip that our website is leaking secr
 
 To protect our agency, we have taken the webpage down but saved it to a Docker instance so you can interact with the site and figure this out for us. 
 
-**Author:** r0m|
+**Author:** r0m
 
 **Package Link:** [Download the package](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Networking%20%26%20Reconnaissance/Packages/Header%20Hinterlands.zip)
 
