@@ -29,7 +29,7 @@ You are given two images to determine the ICAO code.
 
 ### Investigation
 
-Using Google reverse image search, it appears that the images are related to the conflict between Russia and Ukraine. To narrow down the location, further investigation led to a tweet mentioning the Starokonstantinov airbase. The images closely match those found in the tweet.
+Using Google reverse image search or a image search of your choice, it appears that the images are related to the conflict between Russia and Ukraine, through various article that you may encounter. To narrow down the location, upon further investigation which led to a tweet mentioning the Starokonstantinov airbase. The images closely match those found in the tweet.
 
 - **Tweet:** [Narrative_Hole's Tweet](https://x.com/narrative_hole/status/1688015540365717505)
 
