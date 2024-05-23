@@ -1,10 +1,10 @@
-# Medium Difficulty Challenge
+### Difficulty: Medium
 
-## Challenge Info
+**Challenge Info:**
 
 Our target, who is still at large, left a dead-drop in a nearby park containing some unlabeled imagery. We have attached the images here, hoping you can identify the location's ICAO code. This location might be relevant to an upcoming operation or the target themselves.
 
-### Flag format: C1{ICAO}
+Flag format: C1{ICAO}
 
 **Author:** nord
 
