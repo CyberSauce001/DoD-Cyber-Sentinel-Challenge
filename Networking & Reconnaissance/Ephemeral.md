@@ -14,8 +14,10 @@ To access the machine, use the following SSH command:
 ```
 ssh -p 22631 ctfuser@0.cloud.chals.io
 ```
+-------------------------------------------------------------
 
-Once logged in, follow these steps:
+First log into the machine with the infomation given above.
+Then follow the steps below:
 
 1. Find the IP address of the machine.
 2. Use `nmap` to scan for open ports:
@@ -24,7 +26,7 @@ Once logged in, follow these steps:
    ```
    This scan will take some time. Eventually, it will discover an unknown port, `51147`.
 
-3. To retrieve the flag, you can also use `nc` (netcat) on the discovered port:
+3. To retrieve the flag, you can also use `nc` (netcat) on the discovered port, otherwise the nmap should display the flag for you:
    ```
    nc {IP address} 51147
    ```
