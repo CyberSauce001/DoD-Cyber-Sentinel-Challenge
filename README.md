@@ -1,6 +1,7 @@
 # DoD-Cyber-Sentinel-Challenge
 
 Challenges for the C1 CTF
+
 May 2024
 
 ## Challenge Table
@@ -17,7 +18,13 @@ Filing Problem |Forensics |Easy |[Link](https://github.com/CyberSauce001/DoD-Cyb
 
 
 
+## CyberTechSauce
+My placement of what I got entering for this competition:
+
+![image](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/assets/23144900/cfdb5f4f-e99e-40cb-b5ec-f1c520af0165)
 
 
-#WIP
+
+
+Updated as of 5/23/24
 
