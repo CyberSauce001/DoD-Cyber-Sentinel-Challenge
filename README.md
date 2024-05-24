@@ -18,7 +18,7 @@ May 2024
 |Filing Problem |Forensics |Easy |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Forensics/Filing%20Problem.md) |nord |
 |Exfil |Forensics |Medium | [Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Forensics/Exfil.md)|[m4lwhere](https://github.com/m4lwhere/DoD-CyberChallenge-C1-Challenges/blob/main/README.md) |
 |Packer's Paradox|Malware & Reverse Engineering| Easy|[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Malware%20%26%20Reverse%20Engineering/Packer's%20Paradox.md)|r0m |
-|Important Package |Malware & Reverse Engineering | Medium |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Malware%20&%20Reverse%20Engineering/Important%20Document.md) |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main)|
+|Important Document |Malware & Reverse Engineering | Medium |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Malware%20&%20Reverse%20Engineering/Important%20Document.md) |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main)|
 
 
 
