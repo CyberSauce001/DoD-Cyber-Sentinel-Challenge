@@ -9,8 +9,8 @@ May 2024
 
 | Title   | Category     | Difficulty | Link | Sources |
 | :-----: | :--------: | :----------: | :--: | :-----: |
-|Printer |Web Security |Easy | [Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Web%20Security/Printer.md) |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main) |
-|LinkU |Web Security|Medium | |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main) |
+|Printer |Web Security |Easy |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Web%20Security/Printer.md) |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main) |
+|LinkU |Web Security|Medium |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Web%20Security/LinkU.md) |[Tsuto](https://github.com/jselliott/DoD-Cyber-Sentinel-2024/tree/main) |
 |Environment Secret Club|Web Security |Medium |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Web%20Security/Environment%20Secret%20Club.md) | [m4lwhere](https://github.com/m4lwhere/DoD-CyberChallenge-C1-Challenges/blob/main/README.md) |
 |Header Hinterland |Networking & Reconnaissance |Easy | [Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Networking%20%26%20Reconnaissance/Header%20Hinterlands.md) |r0m |
 |Ephemeral |Networking & Reconnaissance |Easy |[Link](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/blob/main/Networking%20%26%20Reconnaissance/Ephemeral.md)| [m4lwhere](https://github.com/m4lwhere/DoD-CyberChallenge-C1-Challenges/blob/main/README.md) |
