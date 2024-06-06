@@ -41,5 +41,3 @@ My placement of what I got entering for this competition:
 
 
 
-Updated as of 5/28/24
-
